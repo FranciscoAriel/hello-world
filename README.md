@@ -1,2 +1,7 @@
 # hello-world
-Learning Github
+
+## Learning Github
+
+This `readme.md` file shows information about the repository.
+
+
